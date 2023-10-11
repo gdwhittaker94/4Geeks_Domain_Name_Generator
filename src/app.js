@@ -1,6 +1,4 @@
-function log(input) {
-  console.log(input);
-}
+const log = input => console.log(input);
 
 const pronoun = ["my", "your", "his", "her", "our", "their"];
 const adj = ["awesome", "amazing", "wonderful", "beautiful", "fantastic", "splendid", "maravellous", "incredible"];
